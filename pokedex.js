@@ -80,3 +80,5 @@ class Pokedex {
     }
 
 }
+
+// cerrado
